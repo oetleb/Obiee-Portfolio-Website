@@ -1,0 +1,19 @@
+{
+  "name": "baraa-portfolio",
+  "version": "1.0.0",
+  "description": "Learn more about Baraa and his different skill sets, work experiences, and projects here!",
+  "author": "Baraa Hamodi",
+  "homepage": "https://baraa.ca",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bhamodi/bhamodi.github.io.git"
+  },
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "grunt": "^1.0.0",
+    "grunt-autoprefixer": "^3.0.0",
+    "grunt-contrib-cssmin": "^2.0.0",
+    "grunt-contrib-uglify": "^3.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
