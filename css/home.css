@@ -640,7 +640,7 @@ html, body {
   color: #fff;
   transition: all 0.4s ease-in-out;
 }
-.folio-btn.active,.folio-btn-large:active,.folio-btn-large2:active {
+.folio-btn.active,.folio-btn-large.active,.folio-btn-large2.active {
   border: 1px solid #fff;
   background: #77be32;
   color: #fff;

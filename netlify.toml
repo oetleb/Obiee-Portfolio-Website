@@ -1,5 +1,9 @@
 [build]
+  command = "npm install && npx grunt build"
   publish = "."
+
+[build.environment]
+  NODE_VERSION = "18"
 
 [[redirects]]
   from = "/*"
