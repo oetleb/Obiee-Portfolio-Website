@@ -7,7 +7,6 @@ module.exports = function(grunt) {
       dist: {
         files: {
           'css/home.css': 'css/home.css',
-          'css/index.css': 'css/index.css',
           'css/shared.css': 'css/shared.css'
         }
       }
@@ -15,7 +14,6 @@ module.exports = function(grunt) {
     cssmin: {
       target: {
         files: {
-          'css/dist/index.min.css': ['css/shared.css', 'css/index.css'],
           'css/dist/home.min.css': ['css/shared.css', 'css/home.css']
         }
       }
@@ -23,7 +21,6 @@ module.exports = function(grunt) {
     uglify: {
       dist: {
         files: {
-          'js/dist/main.min.js': 'js/*.js',
           'js/dist/home.min.js': 'js/home/*.js'
         }
       }
