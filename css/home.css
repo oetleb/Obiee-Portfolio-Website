@@ -585,7 +585,7 @@ html, body {
 }
 .folio-btn {
   border: 1px solid #77be32;
-  width: 100px;
+  width: 120px;
   text-align: center;
   list-style: none;
   background: #fff;
@@ -601,6 +601,7 @@ html, body {
   text-decoration: none;
   margin: 0 5px 10px;
   transition: all 0.4s ease-in-out;
+  white-space: nowrap;
 }
 .folio-btn-large {
   border: 1px solid #77be32;
