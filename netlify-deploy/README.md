@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-The code behind my fully responsive portfolio: https://oetleb.com
+The code behind my fully responsive portfolio: https://oetleb.netlify.app
 
 ### Website Description
 
