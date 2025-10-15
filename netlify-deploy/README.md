@@ -1,10 +1,10 @@
 # Personal Portfolio
 
-The code behind my fully responsive portfolio: https://baraa.ca
+The code behind my fully responsive portfolio: https://oetleb.com
 
 ### Website Description
 
-Learn more about Baraa and his different skill sets, work experiences, and projects here!
+Learn more about Obiee and his different skill sets, work experiences, and projects here!
 
 ### Software
 

@@ -1,12 +1,12 @@
 {
-  "name": "baraa-portfolio",
+  "name": "obiee-portfolio",
   "version": "1.0.0",
-  "description": "Learn more about Baraa and his different skill sets, work experiences, and projects here!",
-  "author": "Baraa Hamodi",
-  "homepage": "https://baraa.ca",
+  "description": "Learn more about Obiee and his different skill sets, work experiences, and projects here!",
+  "author": "Obiee Etleb",
+  "homepage": "https://oetleb.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bhamodi/bhamodi.github.io.git"
+    "url": "https://github.com/oetleb/Obiee-Portfolio-Website.git"
   },
   "license": "BSD-3-Clause",
   "devDependencies": {
