@@ -430,16 +430,21 @@
       <div id="contact" class="title one hideme fade">CONTACT</div>
       <div class="spacer"></div>
       <div class="title two hideme fade">I like to create things with fun, passionate people. Feel free to say hello!</div>
-      <form action="https://formspree.io/obiee@etleb.com" class="contactForm" method="post">
+      <form action="https://formspree.io/f/mqkwpyoo" class="contactForm" method="post">
+        <!-- Hidden fields for better form handling -->
+        <input type="hidden" name="_next" value="https://oetleb.netlify.app/#contact">
+        <input type="hidden" name="_subject" value="New contact form submission from oetleb.netlify.app">
+        <input type="text" name="_gotcha" style="display:none">
+        
         <div class="bay form-horizontal">
           <div class="form-section">
-            <input class="span9" type="text" name="name" placeholder="FULL NAME">
+            <input class="span9" type="text" name="name" placeholder="FULL NAME" required>
           </div>
           <div class="form-section">
-            <input class="span9" type="text" name="email" placeholder="YOUR EMAIL">
+            <input class="span9" type="email" name="email" placeholder="YOUR EMAIL" required>
           </div>
           <div class="form-section">
-            <textarea class="span9" name="message" rows="12" placeholder="TYPE MESSAGE"></textarea>
+            <textarea class="span9" name="message" rows="12" placeholder="TYPE MESSAGE" required></textarea>
           </div>
           <div class="form-section">
             <button type="submit" class="contour-btn green">SEND MESSAGE</button>
