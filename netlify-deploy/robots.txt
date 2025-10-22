@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://oetleb.netlify.app/sitemap.xml
